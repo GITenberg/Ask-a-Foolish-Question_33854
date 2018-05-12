@@ -1,0 +1,35 @@
+_repo: Ask-a-Foolish-Question_33854
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 33854-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Sheckley, Robert
+    aliases:
+    - Barbee, Phillips
+    - Barbee, Phillip
+    - O'Donnevan, Finn
+    - Lang, Ned
+    birthdate: 1928
+    deathdate: 2005
+    gutenberg_agent_id: '2960'
+    url: http://www.gutenberg.org/2009/agents/2960
+    wikipedia: http://en.wikipedia.org/wiki/Robert_Sheckley
+description: ''
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '2010-10-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33854'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Questions and answers -- Fiction'
+- !lcsh 'Short stories'
+- !lcsh 'Science fiction'
+- !lcc 'PS'
+title: Ask a Foolish Question
+url: http://www.gutenberg.org/ebooks/33854
